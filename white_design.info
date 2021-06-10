@@ -1,0 +1,6 @@
+name = White design
+description = Search using simple search api
+package = Ding!
+version = "7.x-0.26"
+core = 7.x
+stylesheets[all][] = css/white_design.css
