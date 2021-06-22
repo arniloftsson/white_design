@@ -9,7 +9,7 @@
 }
 
 .search-form-extended.admin-menu-with-shortcuts .ding2-site-template  .site-header .navigation-wrapper {
-    top: 0px;
+    top: 15px;
 }
 
 body.search-form-extended.extended-search-is-not-open {
@@ -97,7 +97,7 @@ body.search-form-extended.extended-search-is-not-open {
     padding-top: 20px;
 }
 
-.search-form-extended.admin-menu .site-header .ding2-site-template .navigation-wrapper {
-    top: 0px;
+.search-form-extended.admin-menu .ding2-site-template  .site-header .navigation-wrapper {
+    top: 15px;
 
 }
