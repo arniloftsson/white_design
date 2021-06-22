@@ -96,3 +96,8 @@ body.search-form-extended.extended-search-is-not-open {
 .page-no-panels .ding2-site-template .content-wrapper > .content-inner {
     padding-top: 20px;
 }
+
+.search-form-extended.admin-menu .site-header .ding2-site-template .navigation-wrapper {
+    top: 0px;
+
+}
