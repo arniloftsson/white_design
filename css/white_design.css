@@ -8,6 +8,10 @@
     box-shadow: none;
 }
 
+.search-form-extended.admin-menu-with-shortcuts .ding2-site-template  .site-header .navigation-wrapper {
+    top: 0px;
+}
+
 body.search-form-extended.extended-search-is-not-open {
     padding-top: 0px !important;
 }
@@ -21,13 +25,14 @@ body.search-form-extended.extended-search-is-not-open {
 }
 
 .logo {
-	width: 100px;
+	width: 110px;
 	float: left;
 	margin-right: 30px;
+    margin-top: 5px;
 }
 
 .ding2-site-template .main-menu-wrapper > ul.main-menu > li {
-    padding-top: 10px;
+    padding-top: 15px;
 }
 
 .has-search-dropdown .ding2-site-template  .site-header > .navigation-wrapper .navigation-inner .search-extended-button {
@@ -39,15 +44,15 @@ body.search-form-extended.extended-search-is-not-open {
 }
 
 .ding2-site-template ul.main-menu > li a::after {
-    bottom: 35px;
+    bottom: 22px;
 }
 
-.site-header {
+/* .site-header {
     border-bottom: 1px solid #B28282;
-}
+} */
 
 .ding2-site-template .main-menu-wrapper > ul.main-menu > li {
-    min-height: 64px;
+    min-height: 74px;
 }
 
 .ding2-site-template ul.secondary-menu li {
@@ -85,5 +90,9 @@ body.search-form-extended.extended-search-is-not-open {
 
 .simple-navigation-search-form {
 	margin-left: 12px;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
+}
+
+.page-no-panels .ding2-site-template .content-wrapper > .content-inner {
+    padding-top: 20px;
 }
