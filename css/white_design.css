@@ -66,7 +66,7 @@ body.search-form-extended.extended-search-is-not-open {
 .content-wrapper .simple-navigation-search-form .form-type-textfield{
     max-width: none;
     display: inline-block;
-    width: 56.6%;
+    width: 58.55%;
     margin-right: 1.95%;
 }
 
@@ -90,7 +90,7 @@ body.search-form-extended.extended-search-is-not-open {
 
 .simple-navigation-search-form {
 	margin-left: 12px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     margin-top: -21px;
 }
 
@@ -98,11 +98,20 @@ body.search-form-extended.extended-search-is-not-open {
     top:21px;
 }
 
+.simple-navigation-search-form .select-wrapper > select {
+    border: 2px solid #B28282;
+}
+
+.simple-navigation-search-form .select-wrapper::before {
+    background-color: white;
+    border-right: 2px solid #B28282;
+}
+
 .content-wrapper .simple-navigation-search-form .form-type-select{
     max-width: none;
     display: inline-block;
     width: 25%;
-    margin-right: 1.95%;
+    margin-right: 0%;
 }
 
 .page-no-panels .ding2-site-template .content-wrapper > .content-inner {
