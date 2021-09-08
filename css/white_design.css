@@ -90,7 +90,6 @@ body.search-form-extended.extended-search-is-not-open {
 
 .simple-navigation-search-form {
 	margin-left: 12px;
-    margin-bottom: 10px;
     margin-top: -21px;
 }
 
@@ -100,6 +99,7 @@ body.search-form-extended.extended-search-is-not-open {
 
 .simple-navigation-search-form .select-wrapper > select {
     border: 2px solid #B28282;
+    padding-top: 15px;
 }
 
 .simple-navigation-search-form .select-wrapper::before {
